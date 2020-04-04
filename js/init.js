@@ -1,0 +1,1 @@
+var config=null,rootFirebase=null;setFirebaseInitStore();function setFirebaseInitStore(){}
